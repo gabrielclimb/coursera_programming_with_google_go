@@ -76,10 +76,28 @@ y = *int // y is now 1
 		- The most common thing to do, is just to declare it as an int and leave it to the compiler figure out
 	- Type conversion
 		- ![[Pasted image 20230723143708.png]]
-
-
-
-
-### Week 3
-
-### Week 4
+	- iota - iota is a function used to generate constants
+		- You use this when you have to represent some property or some property that has several different distinct possible value. So, this is also known as one-hot. So, basically if you have a variable and you know it's going to be one-hot coded.
+		- ![[iota1.png]]
+		- ![[iota2.png]]
+	- Control Flow
+		- If / else
+		```go
+		if x > 5 {
+			fmt.Printf("Yup, %s", x)
+		}
+	   ```
+		- For
+			- ![[for.png]]
+		- Switch Case
+			- ![[switch.png]]
+		- Tagless Switch
+			- ![[tagless_switch.png]]
+		- Break and Continue
+			- ![[break.png]]
+			- ![[continue.png]]
+		- Scan
+			- reads user input
+			- takes a pointer as an argument
+			- ![[scan.png]]
+			- 

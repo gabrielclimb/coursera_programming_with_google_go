@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd190c49563e5b1",
+        "id": "2d7aafccc4f1e210",
         "type": "tabs",
         "children": [
           {
-            "id": "6838da2d4ff3ad80",
+            "id": "7441ea588d865e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,22 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6838da2d4ff3ad80",
+  "active": "bd715eeedd741364",
   "lastOpenFiles": [
+    "Programming with Google Go/images/scan.png",
+    "Programming with Google Go/images/continue.png",
+    "Programming with Google Go/images/break.png",
+    "Programming with Google Go/Getting Started with Go/Notes.md",
+    "Pasted image 20230723165958.png.md",
+    "Programming with Google Go/images/iota2.png",
+    "Programming with Google Go/images/tagless_switch.png",
+    "Programming with Google Go/images/Pasted image 20230723140228.png",
+    "Programming with Google Go/images/switch.png",
+    "Programming with Google Go/images/for.png",
+    "Programming with Google Go/images/iota1.png",
     "Programming with Google Go/images/Pasted image 20230723143708.png",
     "Programming with Google Go/images/Pasted image 20230723135852.png",
-    "Programming with Google Go/Getting Started with Go/Notes.md",
-    "Programming with Google Go/images/Pasted image 20230723142535.png",
-    "Programming with Google Go/images/Pasted image 20230723142213.png",
-    "Programming with Google Go/images/Pasted image 20230723140228.png",
-    "Programming with Google Go/images/Deallocating_1.png",
-    "Programming with Google Go/images/Lexical Scoping.png",
-    "Programming with Google Go/images/blocks_2.png",
-    "Programming with Google Go/images/blocks_1.png",
     "ddd.md",
     "Programming with Google Go/Getting Started with Go",
-    "Programming with Google Go/images/software_translation.png",
-    "Programming with Google Go/images/objects_in_go.png",
     "Programming with Google Go/images",
     "Programming with Google Go",
     "Untitled"
