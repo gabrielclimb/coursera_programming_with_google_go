@@ -6,12 +6,10 @@ import (
 )
 
 func main() {
-	var input string
-	fmt.Print("Enter a input:\n")
-	fmt.Scan(&input)
-
-	lowerCaseInput := strings.ToLower(input)
-	if strings.HasPrefix(lowerCaseInput, "i") && strings.HasSuffix(lowerCaseInput, "n") && strings.Contains(lowerCaseInput, "a") {
+	var str string
+	fmt.Println("Please enter a string:")
+	fmt.Scanln(&str)
+	if strings.Contains(str, "a") && (str[0] == 'i' || str[0] == 'I') && (str[len(str)-1] == 'n' || str[len(str)-1] == 'N') {
 		fmt.Println("Found!")
 	} else {
 		fmt.Println("Not Found!")

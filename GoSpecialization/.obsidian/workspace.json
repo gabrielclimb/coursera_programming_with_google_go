@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7aafccc4f1e210",
+        "id": "a1b20163701b63ec",
         "type": "tabs",
         "children": [
           {
-            "id": "7441ea588d865e13",
+            "id": "3a3d117feaaa3f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming with Google Go/Getting Started with Go/Notes.md",
+                "file": "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming with Google Go/Getting Started with Go/Notes.md",
+                "file": "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming with Google Go/Getting Started with Go/Notes.md",
+                "file": "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming with Google Go/Getting Started with Go/Notes.md"
+                "file": "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md"
               }
             }
           }
@@ -146,21 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd715eeedd741364",
+  "active": "3a3d117feaaa3f6c",
   "lastOpenFiles": [
-    "Programming with Google Go/images/scan.png",
-    "Programming with Google Go/images/continue.png",
-    "Programming with Google Go/images/break.png",
-    "Programming with Google Go/Getting Started with Go/Notes.md",
+    "Pasted image 20230806193713.png",
+    "Programming with Google Go/images/Pasted image 20230806193533.png",
+    "Programming with Google Go/images/Pasted image 20230806193518.png",
+    "Programming with Google Go/images/Pasted image 20230806193146.png",
+    "Programming with Google Go/images/Pasted image 20230806193125.png",
+    "Programming with Google Go/images/Pasted image 20230806193044.png",
+    "Programming with Google Go/images/Pasted image 20230806192717.png",
+    "Programming with Google Go/images/Pasted image 20230806192640.png",
+    "Programming with Google Go/images/Pasted image 20230806192512.png",
+    "Programming with Google Go/images/Pasted image 20230806192209.png",
+    "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
+    "Programming with Google Go/images/Pasted image 20230806192415.png",
+    "Programming with Google Go/Getting Started with Go/Week 2 - Notes.md",
+    "Programming with Google Go/Getting Started with Go/Week 1 - Notes.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Pasted image 20230723165958.png.md",
-    "Programming with Google Go/images/iota2.png",
-    "Programming with Google Go/images/tagless_switch.png",
-    "Programming with Google Go/images/Pasted image 20230723140228.png",
-    "Programming with Google Go/images/switch.png",
-    "Programming with Google Go/images/for.png",
-    "Programming with Google Go/images/iota1.png",
-    "Programming with Google Go/images/Pasted image 20230723143708.png",
-    "Programming with Google Go/images/Pasted image 20230723135852.png",
     "ddd.md",
     "Programming with Google Go/Getting Started with Go",
     "Programming with Google Go/images",
