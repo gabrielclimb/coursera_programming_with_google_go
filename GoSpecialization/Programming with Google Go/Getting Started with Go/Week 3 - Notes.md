@@ -1,0 +1,54 @@
+- Arrays
+	- fixed-lengh series of elements of a chosen type
+	- Elements accessed using subscript notation []
+	- indices start at 0
+	- Elements initialized to zero value
+	- ![[Pasted image 20230731222823.png]]
+	- Array Literal -> array with pre-defined values
+	```go 
+	var x [5]int = [5]{1, 2, 3, 4, 5}
+	```
+	- Length of literal must be length of array
+	- `...` is used to express the size. You can use dot dot dot to express the size of an array literal. You can do that because if you have an array literal and inside the curly brackets you have four elements in there, then it's clear that you want this array literal to be size four. You don't have to say explicitly four. So, you can just put a `...` in there, and it will infer the size of the array from the number of elements inside the array literal.
+	- ![[Pasted image 20230731223341.png]]
+	- Iterating through array
+	- ![[Pasted image 20230731223440.png]]
+- Slices
+	- slice of a array, can be bigger or smaller than the array
+	- ![[Pasted image 20230731223737.png]]
+	- ![[Pasted image 20230731223958.png]]
+	- ![[Pasted image 20230731224101.png]]
+	- ![[Pasted image 20230731224244.png]]
+- Variable Slices
+	- `make` can be used to create slices and array
+	- ![[Pasted image 20230806191139.png]]
+		-  the length and capacity are the same. So, the underlying array is the same size as the slice, and the slice points to the beginning, starts at the beginning of the underlying array.
+	- ![[Pasted image 20230806191311.png]]
+	- the three argument version of "make", instead you specify the length and the capacity separately. So, that means that the underlying array is actually bigger than the slice. So, in this case, we got SLI equals make.
+		- first argument, the type bracket int.
+		- Second argument is the length of the slice. 
+		- The third argument is the capacity, which is the size of the array.
+	- slice is size 10, but the array is size 15, so we can increase the slice up to size 15 if we want to.
+	- **Append** -> Add elements to the end of slice
+		- it creates a bigger array if necessary
+-  Hash Tables
+	- Key/Value Pairs
+	- Key need be unique
+	- ![[Pasted image 20230806192135.png]]
+	- How hash function works:
+		- ![[Pasted image 20230806192209.png]]
+		- ![[Pasted image 20230806192415.png]]
+		- ![[Pasted image 20230806192512.png]]
+		- Collisions are rare
+- Maps
+	- Implementation of the hash maps
+		- ![[Pasted image 20230806193044.png]]
+		- ![[Pasted image 20230806193125.png]]
+		- ![[Pasted image 20230806193146.png]]
+- Structs
+	- aggregate data type, so it groups together objects of arbirtrary type.
+	- it's useful for a lot of things, usually it's for organizational purposes, it really helps
+	- could be compared t the data class on python
+	- ![[Pasted image 20230806193518.png]]
+	- ![[Pasted image 20230806193533.png]]
+	- ![[Pasted image 20230806193713.png]]
