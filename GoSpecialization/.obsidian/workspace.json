@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ced21fa70f17243",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,6 +156,7 @@
   },
   "active": "3a3d117feaaa3f6c",
   "lastOpenFiles": [
+    "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
     "Pasted image 20230806193713.png",
     "Programming with Google Go/images/Pasted image 20230806193533.png",
     "Programming with Google Go/images/Pasted image 20230806193518.png",
@@ -158,8 +167,6 @@
     "Programming with Google Go/images/Pasted image 20230806192640.png",
     "Programming with Google Go/images/Pasted image 20230806192512.png",
     "Programming with Google Go/images/Pasted image 20230806192209.png",
-    "Programming with Google Go/Getting Started with Go/Week 3 - Notes.md",
-    "Programming with Google Go/images/Pasted image 20230806192415.png",
     "Programming with Google Go/Getting Started with Go/Week 2 - Notes.md",
     "Programming with Google Go/Getting Started with Go/Week 1 - Notes.md",
     "Untitled 1.canvas",
